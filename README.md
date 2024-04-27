@@ -6,3 +6,4 @@
  ![Earthquake risk map by Afet İşleri Genel Müdürlüğü](https://github.com/EFCK/Earthquake-risk-by-province-in-Turkey/assets/81926833/d8808122-9907-4312-a995-1e00e29ae184)
 
  
+[Average earthquake risks.xlsx](https://github.com/EFCK/Earthquake-risk-by-province-in-Turkey/files/15137915/Average.earthquake.risks.xlsx)
